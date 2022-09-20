@@ -1,5 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: o;
+}
+body{
+    background-color: gray;
+}
 header{
-    height: 50px;
+    height: 60px;
     background-color: aqua;
 }
 
@@ -9,4 +17,43 @@ header{
 
 #h11{
     font-size: 40px;
+}
+
+.border{
+    border: 1px solid black;
+    border-radius: 15%;
+    background-color: blue;
+    color: white;
+}
+
+.sez1{
+    margin-top: 25px;
+    margin-left: 20px;
+    background-color: white;
+    width: 600px;
+    padding: 10px 10px;
+}
+
+.sez2{
+    margin-top: 2px;
+    margin-left: 20px;
+    background-color: white;
+    width: 600px;
+    padding: 10px 10px;
+}
+
+.sez3{
+    margin-left: 20px;
+    background-color: white;
+    width: 600px;
+    padding: 10px 10px;
+}
+
+
+.sez5{
+    margin-left: 25px;
+}
+
+main{
+    margin-left: 300px;
 }
