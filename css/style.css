@@ -15,6 +15,11 @@ header{
     display: inline;
 }
 
+
+img{
+    margin-top: 5px;
+}
+
 #h11{
     font-size: 40px;
 }
